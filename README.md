@@ -1,7 +1,9 @@
-<h1>Repositório de exercícios da Trybe</h1>
+<h1 align="center">Repositório de exercícios da Trybe</h1>
 <ul>
   <li>HTLM</li>
   <li>CSS3</li>
   <li>JavaScript</li>
 </ul>
-<img align="center" src="https://user-images.githubusercontent.com/59674530/107099046-74d6a200-67ef-11eb-9e07-9a212ce05acc.png" />
+<h2 align="center">
+  <a href="https://f.hubspotusercontent20.net/hubfs/6308375/Si%CC%81mbolo_PEQUENO_Prancheta%201-1.png" alt="logo da trybe"></a>
+</h2>
