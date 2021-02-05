@@ -1,4 +1,6 @@
-Aqui irei colocar exercícios de:
-- HTLM;
-- CSS3;
-- JavaScript;
+<h1 align="center">Repositório de exercícios da Trybe</h1>
+<ul>
+  <li>HTLM</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+</ul>
